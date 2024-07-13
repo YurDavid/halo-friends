@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/halo-friends/static/css/main.93dc33fd.css",
+    "main.js": "/halo-friends/static/js/main.8d9d2ebf.js",
+    "static/js/453.944e58e6.chunk.js": "/halo-friends/static/js/453.944e58e6.chunk.js",
+    "index.html": "/halo-friends/index.html",
+    "main.93dc33fd.css.map": "/halo-friends/static/css/main.93dc33fd.css.map",
+    "main.8d9d2ebf.js.map": "/halo-friends/static/js/main.8d9d2ebf.js.map",
+    "453.944e58e6.chunk.js.map": "/halo-friends/static/js/453.944e58e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93dc33fd.css",
+    "static/js/main.8d9d2ebf.js"
+  ]
+}
